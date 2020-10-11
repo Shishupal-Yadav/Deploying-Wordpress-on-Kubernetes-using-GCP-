@@ -1,1 +1,1 @@
-# Deploying-Wordpress-on-Kubernetes-using-GCP-
+# Deploying-Wordpress-on-Kubernetes-using-GCP
